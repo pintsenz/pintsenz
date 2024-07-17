@@ -1,4 +1,6 @@
 -  Hi, I’m @pintsenz
+-  Here you will see random projects around java, python, and R
+-  welcome! 
 
 
 <!---
